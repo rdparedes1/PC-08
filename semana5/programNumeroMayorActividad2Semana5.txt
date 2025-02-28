@@ -1,0 +1,22 @@
+namespace semana5_RubenParedesGustavoAdolfo
+{
+    class semana5
+    {
+        static void Main(string[] args)
+        {
+            double n1;
+            double n2;
+            Console.WriteLine("Ingrese el número 1");
+            n1 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Ingrese el número 2");
+            n2 = Convert.ToDouble(Console.ReadLine());
+            if(n1 > n2){
+                Console.WriteLine("El número " + n1 + " es mayor a " + n2);
+            } else if(n1 == n2){
+                Console.WriteLine("Los dos números son iguales");
+            } else {
+                Console.WriteLine("El número " + n2 + " es mayor a " + n1);
+            }
+        }
+    }
+}
