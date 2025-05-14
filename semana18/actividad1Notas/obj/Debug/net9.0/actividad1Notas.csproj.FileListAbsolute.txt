@@ -1,0 +1,15 @@
+C:\Users\ruben\OneDrive\Documentos\repoPCTeoria\PC-08\semana18\actividad1Notas\bin\Debug\net9.0\actividad1Notas.exe
+C:\Users\ruben\OneDrive\Documentos\repoPCTeoria\PC-08\semana18\actividad1Notas\bin\Debug\net9.0\actividad1Notas.deps.json
+C:\Users\ruben\OneDrive\Documentos\repoPCTeoria\PC-08\semana18\actividad1Notas\bin\Debug\net9.0\actividad1Notas.runtimeconfig.json
+C:\Users\ruben\OneDrive\Documentos\repoPCTeoria\PC-08\semana18\actividad1Notas\bin\Debug\net9.0\actividad1Notas.dll
+C:\Users\ruben\OneDrive\Documentos\repoPCTeoria\PC-08\semana18\actividad1Notas\bin\Debug\net9.0\actividad1Notas.pdb
+C:\Users\ruben\OneDrive\Documentos\repoPCTeoria\PC-08\semana18\actividad1Notas\obj\Debug\net9.0\actividad1Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Documentos\repoPCTeoria\PC-08\semana18\actividad1Notas\obj\Debug\net9.0\actividad1Notas.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Documentos\repoPCTeoria\PC-08\semana18\actividad1Notas\obj\Debug\net9.0\actividad1Notas.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Documentos\repoPCTeoria\PC-08\semana18\actividad1Notas\obj\Debug\net9.0\actividad1Notas.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Documentos\repoPCTeoria\PC-08\semana18\actividad1Notas\obj\Debug\net9.0\actividad1Notas.sourcelink.json
+C:\Users\ruben\OneDrive\Documentos\repoPCTeoria\PC-08\semana18\actividad1Notas\obj\Debug\net9.0\actividad1Notas.dll
+C:\Users\ruben\OneDrive\Documentos\repoPCTeoria\PC-08\semana18\actividad1Notas\obj\Debug\net9.0\refint\actividad1Notas.dll
+C:\Users\ruben\OneDrive\Documentos\repoPCTeoria\PC-08\semana18\actividad1Notas\obj\Debug\net9.0\actividad1Notas.pdb
+C:\Users\ruben\OneDrive\Documentos\repoPCTeoria\PC-08\semana18\actividad1Notas\obj\Debug\net9.0\actividad1Notas.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Documentos\repoPCTeoria\PC-08\semana18\actividad1Notas\obj\Debug\net9.0\ref\actividad1Notas.dll
